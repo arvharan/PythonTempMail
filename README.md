@@ -6,7 +6,7 @@ Ignore bad temp websites like temp-mail.
 
 ## 1. TO use, first clone the repository
 ```ruby
-git clone https://github.com/arvharan/PythonTempMail
+git clone https://github.com/arvharan/PythonTempMail.git
 ```
 ## 2. Install Dependencies
    ```ruby
