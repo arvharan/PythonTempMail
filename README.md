@@ -3,9 +3,7 @@ Hi guys
 Here you can use this python code for your temp email.
 Ignore bad temp websites like temp-mail.
 TO use first install dependencies:
-
-```
-pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 Edit temp_mail.py at line number 10 to make your username.
 username rules:
@@ -24,11 +22,6 @@ Notes: If a username is not availble it will change your number + 1.
  ```python temp_mail.py```
 
 
- Thanks for using!
 
- ```ts
-pip install -r requirements.txt
-
-```
 
 
