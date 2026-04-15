@@ -1,31 +1,36 @@
 # Pythontempmail
 Hi guys
 Here you can use this python code for your temp email.
-Ignore bad temp websites like temp-mail.
-TO use first install dependencies:
-```
-pip install -r requirements.txt
-```
 
-Edit temp_mail.py at line number 10 to make your username.
+Ignore bad temp websites like temp-mail.
+
+  ##1. TO use, first clone the repository
+```
+git clone https://github.com/arvharan/PythonTempMail
+```
+##2. Install Dependencies
+   ```
+   pip install -r requirements.txt
+
+##3. Edit temp_mail.py at line number 10 to make your username.
 
 username rules:
 
-username must be more then 3 letters long
+  1.username must be more then 3 letters long
 
-username must contain number.
+  2.username must contain number.
 
-And also make a password for email at line number 12
+##4. Make a password for email at line number 12
 Password rules:
 
-Make password strong by using al least 8 digits.
+1.Make password strong by using al least 8 digits.
 
-Dont share your pwd with anyone.
+2.Dont share your pwd with anyone.
 
-Notes: If a username is not availble it will change your number + 1.
+###Notes: If a username is not availble it will change your number + 1.
 
 
- to run your py file:
+ ##5. To run your py file:
  ```
     python temp_mail.py
  ```
