@@ -15,7 +15,7 @@ cd PythonTempMail
    ```ruby
    pip install -r requirements.txt
 ```
-## 3. Edit temp_mail.py at line number 10 to make your username.
+## 3. Edit Receiver.py at line number 10 to make your username.
 
 username rules:
 
