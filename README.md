@@ -1,4 +1,4 @@
-# Pythontempmail
+# PythonTempMail
 Hi guys
 Here you can use this python code for your temp email.
 
