@@ -25,7 +25,7 @@ while (account.status_code == 422 and "already used" in account.text) or account
         print("Rate limit hit, waiting 1 seconds...")
         time.sleep(1)
     else:
-        username = f"arvharan{2 + attempt - 1}"
+        username = f"yourusernamehere{yournumberhere + attempt - 1}"
         email = f"{username}@{domain}"
         print(f"Trying username: {username}")
         time.sleep(1)
