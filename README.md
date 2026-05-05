@@ -15,13 +15,15 @@ cd PythonTempMail
    ```ruby
    pip install -r requirements.txt
 ```
-## 3. Edit Receiver.py at line number 10 to make your username.
+## 3. Edit Receiver.py at line number 10 and line 28 to make your username.
 
 username rules:
 
-  1.username must be more then 3 letters long
+  1. Username must be more then 3 letters long
 
-  2.username must contain number.
+  2. Username must contain number.
+
+  3. In line 28 replace yournumberhere with your number you chose before.
 
 ## 4. Make a password for email at line number 12
 Password rules:
@@ -53,3 +55,6 @@ To create A Mailtrap API key.
 ```ruby
 python Sender.py
 ```
+
+# Thank You For using PythonTempMail.
+
